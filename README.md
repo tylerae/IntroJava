@@ -10,8 +10,8 @@
 
 # Useful Websites
 
-* [W3 Schools]([http://url.link.goes.here](https://www.w3schools.com/java/default.asp))
-* [Youtube Tutorial]([http://url.link.goes.here](https://www.youtube.com/watch?v=7YcW25PHnAA))
+* [W3 Schools](http://url.link.goes.here](https://www.w3schools.com/java/default.asp)
+* [Youtube Tutorial](http://url.link.goes.here](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
 # Future Work
 
