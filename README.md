@@ -2,7 +2,7 @@
 
 ## The aim of this project was to learn the basics of Java. I also wanted to dive into rest api's so i combined the two concepts to create a rest api using Java.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Java Software Demo Video](https://youtu.be/TSlWwvMKY_s)
 
 # Development Environment
 
